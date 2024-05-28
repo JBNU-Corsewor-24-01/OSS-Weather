@@ -3,6 +3,13 @@
 
 This project processes location and weather data, converts geographical coordinates, and visualizes the data on a map of South Korea.
 
+
+# Reference Site
+
+   - https://www.data.go.kr/data/15084084/openapi.do
+   - https://mkjjo.github.io/python/2019/08/18/korea_population.html
+
+
 ## Directory Structure
 
 ```
