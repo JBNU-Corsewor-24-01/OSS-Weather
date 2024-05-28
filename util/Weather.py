@@ -4,6 +4,7 @@ import json
 
 class WeatherService:
 
+    ###################################################
     ##### Please fill in the following variables #####
     service_key = ''
     base_url = ''
